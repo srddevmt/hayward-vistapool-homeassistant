@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Hayward VistaPool Setup",
+        "description": "Enter your VistaPool account details",
+        "data": {
+          "email": "Email",
+          "password": "Password",
+          "pool_id": "Pool ID"
+        }
+      }
+    },
+    "error": {
+      "auth": "Login failed. Please check your credentials."
+    }
+  }
+}
