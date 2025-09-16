@@ -1,7 +1,7 @@
 {
   "domain": "hayward_vistapool",
   "name": "Hayward VistaPool",
-  "version": "0.5.0",
+  "version": "0.4.0",
   "documentation": "https://github.com/srddevmt/hayward-vistapool-homeassistant",
   "issue_tracker": "https://github.com/srddevmt/hayward-vistapool-homeassistant/issues",
   "codeowners": [
@@ -9,9 +9,5 @@
   ],
   "iot_class": "cloud_polling",
   "config_flow": true,
-  "integration_type": "hub",
-  "branding": {
-    "icon": "branding/icon.png",
-    "logo": "branding/logo.png"
-  }
+  "integration_type": "hub"
 }
