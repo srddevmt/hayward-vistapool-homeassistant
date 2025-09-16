@@ -1,1 +1,13 @@
-printf ".DS_Store\n__pycache__/\n*.pyc\n" > .gitignore
+# macOS Finder
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# HA specific
+*.db
+*.log
+storage/
+
