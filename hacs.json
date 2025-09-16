@@ -1,0 +1,10 @@
+{
+  "name": "Hayward VistaPool",
+  "content_in_root": false,
+  "domains": ["hayward_vistapool"],
+  "country": "ALL",
+  "render_readme": true,
+  "homeassistant": "2023.0.0",
+  "iot_class": "cloud_polling",
+  "filename": "custom_components/hayward_vistapool/__init__.py"
+}
